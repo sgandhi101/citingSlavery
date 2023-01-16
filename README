@@ -1,0 +1,11 @@
+Use this to generate target graph by jurisdiction:
+*: api(decision_date_min=2000-01-01&cites_to__search=slave&cites_to__decision_date_max=1865-01-31)
+
+Trends Page:
+https://case.law/trends/
+
+Original Website:
+https://www.citingslavery.org
+
+Original Paper:
+https://review.law.stanford.edu/wp-content/uploads/sites/3/2020/01/Simard-72-Stan.-L.-Rev.-79.pdf
